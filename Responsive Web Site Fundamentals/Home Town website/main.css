@@ -168,6 +168,7 @@ main {
  */
 
 .top-news {
+    width: 100%;
   height: 300px;
   border-bottom: 1px solid #E0E0E0;
   padding: 1em;
@@ -214,6 +215,7 @@ main {
 
 .scores {
   padding-top: 1em;
+    width: 100%;
 }
 
 .scores__table {
@@ -260,6 +262,7 @@ main {
  */
 
 .weather {
+    width: 100%;
   padding: 1em;
 }
 
